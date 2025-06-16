@@ -25,6 +25,7 @@ A RESTful API for managing employees and departments, built with Node.js, Expres
 ## 🔧 Setup Instructions
 <details>
 <summary>To use the BamBoard-API, follow these instructions: </summary>
+  
 ### 1️⃣. **Clone the repository**
 
 ```sh
@@ -81,6 +82,7 @@ This will create the `departments` and `employees` tables.
 ## Database Schema
 <details>
 <summary>This is an outline of the Database Schema</summary>
+  
 ### **departments**
 
 | Column | Type           | Constraints      |
